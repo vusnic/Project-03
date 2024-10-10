@@ -1,0 +1,6 @@
+
+# Configurações de API
+API_KEY = 'your_api_key_here'
+API_SECRET = 'your_api_secret_here'
+
+# Outras configurações
